@@ -3,8 +3,9 @@ from bs4 import BeautifulSoup
 import MeCab
 from collections import Counter
 from wordcloud import WordCloud
+import sys
 
-url = 'https://tech-camp.in/note/technology/226/'
+url = sys.argv[1]
 
 html = urllib.request.urlopen(url)
 
