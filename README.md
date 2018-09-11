@@ -2,7 +2,7 @@
   
 ### Make a picture that consist of website's words.
 Using `MeCab` which is Japanese Morphological analysis engine.
-!['hoge'](https://imgur.com/gallery/2eXgwjA.png)
+!['hoge'](https://i.imgur.com/pr4ij7m.png)
 
 ## Setup  
 Install MeCab with brew  
