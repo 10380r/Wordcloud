@@ -9,7 +9,7 @@ Install MeCab with brew
 `$ brew install mecab-ipadic` 
   
 Install MeCab for python  
-`pip install mecab-python3`  
+`$ pip install mecab-python3`  
 
 
 ## Usage  
