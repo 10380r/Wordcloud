@@ -12,5 +12,5 @@ Install MeCab for python
 `pip install mecab-python3`  
 
 
-## Run  
+## Usage  
 `$ python app.py 'WEBSITE_URL'`
