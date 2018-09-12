@@ -1,6 +1,7 @@
 # Scraping website → Morphological analysis → Make WordCloud
   
-## Make a picture that consist of website's words.
+## Make a picture that consist of website's words.  
+  
 Using `MeCab` which is Japanese Morphological analysis engine.
 !['hoge'](https://i.imgur.com/pr4ij7m.png)
 
