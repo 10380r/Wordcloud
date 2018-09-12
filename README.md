@@ -1,4 +1,4 @@
-# Scraping website → Morphological analysis → Make WordCloud
+# Scraping website → Morphological analysis → WordCloud
   
 ## Make a picture that consist of website's words.  
   
